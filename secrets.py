@@ -1,1 +1,1 @@
-secrets.*
+password = "tesa"
